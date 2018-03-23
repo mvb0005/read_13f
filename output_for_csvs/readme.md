@@ -1,1 +1,0 @@
-Change the extension of example.txt to .csv to see an example csv file.
